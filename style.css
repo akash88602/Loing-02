@@ -1,0 +1,100 @@
+.large{
+    text-decoration: none!important;
+    color: black;
+    font-size:25px;
+    font-weight:700;
+}
+.nav-item{
+    padding-left:30px ;
+}
+.bold{
+ background-color: aliceblue;
+ border-radius: 5px;
+ 
+}
+#nav-1{
+    border-top: 1px solid rgb(205, 210, 214);
+    border-bottom: 1px solid rgb(205, 210, 214)
+}
+.title{
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif ;
+    font-weight: 300;
+     font-size: 3.5rem;
+     font-style: italic !important;
+}
+.title-1{
+    font-size:20px;
+    font-weight:500;
+    color:black;
+}
+
+.Thumbanail{
+    color:white;
+    text-align: center;
+  
+}
+.post{
+    font-size: 1.15;
+    font-family:  "Playfair Display", Georgia, "Times New Roman", serif;
+}
+.From{
+    font-style: italic !important;
+    font-size: 1.15;
+    font-family:"Playfair Display", Georgia, "Times New Roman", serif /*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+    border-bottom: 1px solid rgb(205, 210, 214)
+}
+.Sample{
+
+    font-family:"Playfair Display", Georgia, "Times New Roman", serif /*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+    font-size: 3rem;
+ 
+}
+.This{
+    border-bottom: 1px solid rgb(205, 210, 214)
+}
+.block{
+
+    font-family:"Playfair Display", Georgia, "Times New Roman", serif /*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+    font-size: 2rem;
+}
+code{
+    font-size: .875em;
+    color: var(--bs-code-color);
+   
+}  
+
+.from{
+    font-style: italic !important;
+    font-size: 1.15;
+    font-family:"Playfair Display", Georgia, "Times New Roman", serif /*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+   
+}
+.about{
+    background-color: aliceblue;
+ border-radius: 5px;
+ border-radius: 10px;
+}
+.recent{
+    font-style: italic !important;
+    font-size: 1.15;
+    font-family:"Playfair Display", Georgia, "Times New Roman", serif /*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+    border-bottom: 1px solid rgb(205, 210, 214)
+}
+.border{
+    border-top: 1px solid rgb(205, 210, 214)  
+}
+.stacky{
+    position: sticky;
+top: 0;
+
+}
+.recent-5{
+  
+
+    font-size: 1.5rem;
+    font-family:"Playfair Display", Georgia, "Times New Roman", serif /*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+}
+.flex{
+    display: flex;
+    flex-direction: column;
+}
